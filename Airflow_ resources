@@ -1,0 +1,6 @@
+Understand how Airflow works here -  https://airflow.apache.org/use-cases/etl_analytics/
+Airflow DAGs - https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dags.html
+Github Documentation for Airflow is given here - https://github.com/apache/airflow
+If you're new to spark then here's the github repo where you can find some examples: https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/spark.ipynb
+This has a list of ipython notebooks with practical implementation of core libraries - https://github.com/donnemartin/data-science-ipython-notebooks?tab=readme-ov-file#spark
+Case studies for difference between batch and stream processing - https://www.aboutamazon.in/news/tech-blog/a-guide-to-batch-vs-stream-data-processing-for-developers
